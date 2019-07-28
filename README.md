@@ -1,5 +1,8 @@
 # bitcoin-dashboard
 
+###Demo 
+[Click to preview the app](https://laughing-easley-1073d7.netlify.com/)
+
 ## Project setup
 ```
 yarn install
